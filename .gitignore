@@ -1,0 +1,14 @@
+.venv/
+.venv-video/
+models/
+tools/blender/
+.env
+output/
+cache/
+__pycache__/
+assets/backgrounds/*
+assets/music/*
+secrets/
+client_secret*.json
+youtube_token.json
+assets/hdri/

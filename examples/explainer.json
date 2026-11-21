@@ -1,0 +1,18 @@
+{
+  "title": "Why Is the Sky Blue?",
+  "description": "Sunlight is white, so why does the sky look blue? It comes down to tiny air molecules. #science #physics #shorts",
+  "topic": "why the sky is blue",
+  "format": "explainer",
+  "lines": [
+    {"speaker": "narrator", "text": "The sky isn't actually painted blue. So why does it look that way?", "keywords": ["blue"], "visual": "blue sky clouds"},
+    {"speaker": "narrator", "text": "Sunlight looks white, but it's really every color mixed together.", "keywords": ["every color"], "visual": "sunlight prism rainbow"},
+    {"speaker": "narrator", "text": "When it hits our atmosphere, it crashes into tiny gas molecules.", "keywords": ["gas molecules"], "visual": "sun rays atmosphere"},
+    {"speaker": "narrator", "text": "Those molecules scatter short wavelengths, like blue, far more than red.", "keywords": ["scatter", "blue"], "visual": "light beams"},
+    {"speaker": "narrator", "text": "So blue light bounces all over the sky and reaches your eyes from every direction.", "keywords": ["every direction"], "visual": "person looking up sky"},
+    {"speaker": "narrator", "text": "Violet scatters even more, but our eyes are less sensitive to it.", "keywords": ["Violet"], "visual": "eye closeup"},
+    {"speaker": "narrator", "text": "At sunset, light travels through much more air before reaching you.", "keywords": ["sunset"], "visual": "sunset timelapse"},
+    {"speaker": "narrator", "text": "Most of the blue gets scattered away, leaving reds and oranges.", "keywords": ["reds", "oranges"], "visual": "orange sunset sky"},
+    {"speaker": "narrator", "text": "This effect is called Rayleigh scattering.", "keywords": ["Rayleigh"], "visual": "clear sky"},
+    {"speaker": "narrator", "text": "So every blue sky is really just sunlight bouncing off air.", "keywords": ["bouncing"], "visual": "blue sky timelapse"}
+  ]
+}

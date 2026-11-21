@@ -1,0 +1,21 @@
+{
+  "title": "Why Is the Ocean Salty?",
+  "description": "Rivers are fresh water, so where does all the ocean's salt come from? #science #ocean #shorts",
+  "topic": "why the ocean is salty",
+  "format": "dialogue",
+  "lines": [
+    {"speaker": "B", "text": "Pip, why is the ocean salty? Did somebody spill the world's biggest bag of chips?", "keywords": ["salty", "chips"], "visual": ""},
+    {"speaker": "A", "text": "No, Dunk. The salt comes from rocks on land.", "keywords": ["rocks"], "visual": ""},
+    {"speaker": "B", "text": "Rocks? I lick rocks all the time and they taste like dirt.", "keywords": ["lick"], "visual": ""},
+    {"speaker": "A", "text": "Please stop doing that. Rain is slightly acidic, so it slowly breaks rocks down.", "keywords": ["acidic"], "visual": ""},
+    {"speaker": "A", "text": "That releases tiny amounts of minerals, and rivers carry them to the sea.", "keywords": ["minerals", "rivers"], "visual": ""},
+    {"speaker": "B", "text": "But rivers aren't salty. I've checked. With my mouth.", "keywords": ["mouth"], "visual": ""},
+    {"speaker": "A", "text": "Right, there's only a little in each river. The trick is evaporation.", "keywords": ["evaporation"], "visual": ""},
+    {"speaker": "A", "text": "The sun lifts pure water out of the ocean, but the salt stays behind.", "keywords": ["salt"], "visual": ""},
+    {"speaker": "A", "text": "Do that for millions of years and the salt really piles up.", "keywords": ["millions"], "visual": ""},
+    {"speaker": "B", "text": "So the ocean is basically a giant pot of soup that never stops boiling.", "keywords": ["soup"], "visual": ""},
+    {"speaker": "A", "text": "Sort of. Vents on the seafloor add minerals too.", "keywords": ["seafloor"], "visual": ""},
+    {"speaker": "A", "text": "So: rocks give the salt, rivers deliver it, and evaporation traps it.", "keywords": ["traps"], "visual": ""},
+    {"speaker": "B", "text": "Cool. I'm still blaming the chips.", "keywords": ["chips"], "visual": ""}
+  ]
+}

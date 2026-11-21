@@ -1,0 +1,8 @@
+anthropic>=2.8
+requests
+python-dotenv
+pillow
+imageio-ffmpeg
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
